@@ -1,0 +1,181 @@
+body {
+    font-family: 'Century Gothic', Calibri, serif;
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    display: box;
+    -moz-box-orient: horizontal;
+}
+
+
+
+.parent{
+    /* margin-left: 400px 100%; */
+    /* margin-right: 700px 100%; */
+    /* color: rgb(112, 179, 179); */
+    /* border: #000; */
+    margin-left: 70px;
+    margin-right: 70px;
+    /* width: 100%;  */
+    background: rgb(204, 199, 204);
+    
+}
+.enfant1{
+    /* width: 50%; */
+    /* height: 700px; */
+    width: 90%;
+    height: auto;
+    background: blanchedalmond; 
+    float: left;
+    border-bottom: 0px;
+    /* font-size:1.5em; */
+    /* font-weight: 700; */
+    /* margin-left: 5px; */
+    /* margin-right: 5px;  */
+    /* float: left; */
+    /* margin: 10px 3%; */
+    /* margin-left: 10px 5%; */
+    /* margin-right: 10px 5%; */
+    margin: 10px 3%;
+    
+    
+}
+.enfant2{
+    width: 90%;
+    height: auto;
+    background: blanchedalmond;
+    float: left;
+    /* margin-left: 5px; */
+    /* margin: ; */
+    /* margin-left: 10px 5%; */
+    /* margin-right: 10px 5%; */
+    margin: 10px 3%;
+    
+   
+ 
+}
+
+.ecris{
+    text-overflow: ellipsis;
+    margin-top: middle;
+    text-decoration: underline rgb(12, 80, 228);
+    font-size: large; 
+    font-weight: bold;
+    margin: 10px 3%;
+}
+.chapitre1{
+    font-size: 40px; 
+    font-weight: bold;
+    margin: 10px 3%;
+}
+.point{
+    text-overflow: ellipsis;
+    margin-top: middle;
+    color: rgb(54, 54, 170);
+    font-size: large; 
+    font-weight: bold;
+    margin: 10px 3%;
+}
+.point{
+    text-overflow: ellipsis;
+    margin-top: middle;
+    color: rgb(54, 54, 170);
+    font-size: large; 
+    font-weight: bold;
+    margin: 10px 3%;
+}
+.points{
+    /* text-overflow: ellipsis; */
+    margin-top: middle;
+    color: rgb(12, 12, 12);
+    font-size: large; 
+    font-weight: bold;
+    margin: 10px 3%;
+    margin-left: 3%;
+    margin-right: 0%;
+    
+}
+.pointss{
+    /* text-overflow: ellipsis; */
+    margin-top: middle;
+    color: rgb(12, 12, 12);
+    font-size: large; 
+    font-weight: bold;
+    margin: 10px 3%;
+    margin-left: 3%;
+    margin-right: 0%;
+    text-transform: uppercase;
+}
+.pointe{
+    /* text-overflow: ellipsis; */
+    margin-top: middle;
+    color: rgb(12, 12, 12);
+    font-size: large; 
+    font-weight: bold;
+    margin: 10px 3%;
+    margin-left: 6%;
+    margin-right: 0%;
+    text-transform: uppercase;
+}
+.details{
+    color: default;
+    /* font-size: large; */
+    /* font-weight: bolder; */
+    /* margin: 10px 3%; */
+}
+.detaille{
+    color: default;
+    /* font-size: large; */
+    /* font-weight: bolder; */
+    margin: 10px 3%;
+    width: 50%;
+}
+.detailles{
+    color: default;
+    /* font-size: large; */
+    /* font-weight: bolder; */
+    margin: 10px 6%;
+    width: 50%;
+}
+.deta{
+    color: default;
+    /* font-size: large; */
+    /* font-weight: bolder; */
+    margin: 10px 6%;
+    width: 50%;
+    font-weight: bold;
+    font-size: large;
+    
+}
+.detail{
+    color: default;
+    /* font-size: large; */
+    /* font-weight: bolder; */
+    margin: 10px 9%;
+    width: 50%;
+}
+.imageflottante{
+    float: right;
+    margin: 10px 3%;
+}
+
+.imagesflottante{
+    float: left;
+    margin: 10px 3%;
+}
+.imageeflottante{
+    float: middle;
+    margin: 10px 3%;
+}
+.imagflottante{
+    float: right;
+    margin: 10px 3%;
+}
+.imageflottant{
+    margin: 10px 3%;
+}
+
+
+.imag{
+    margin: 10px 3%;
+}
